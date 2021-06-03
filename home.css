@@ -7,7 +7,7 @@ body {
     background-color: #FFFDF0;
     max-width: 100%;
     overflow-x: hidden;
-    margin: 1vh;
+    margin: 1vmin;
   }
 
 #header {
@@ -15,57 +15,57 @@ body {
     top:0
 }
 #contact {
-    margin-top: 10vh;
-    margin-left: 6vh;
-    font-size: 1.5vh;
+    margin-top: 10vmin;
+    margin-left: 6vmin;
+    font-size: 1.5vmin;
     text-align: right;
      /* font-family: 'Lato', sans-serif;  */
 }
 
 #first-name {
-    margin: 6vh;
-    font-size: 6vh;
+    margin: 6vmin;
+    font-size: 6vmin;
     font-family: 'Lato', sans-serif;
 }
 
 #arrow {
     top:0;
-    margin-top: 15vh;
-    height:20vh;
-    margin-left: 27vh;
+    margin-top: 15vmin;
+    height:20vmin;
+    margin-left: 27vmin;
 } 
 
  #proj {
-    margin-top: -25vh;
-    font-size: 5vh;
+    margin-top: -25vmin;
+    font-size: 5vmin;
     font-family: 'Lato', sans-serif;
 }
 
 #bottom {
-    margin-top: 30vh;
-    margin-left: 35vh;
+    margin-top: 30vmin;
+    margin-left: 35vmin;
 }
 
 #intro {
     font-family: 'Poppins', sans-serif;
-    font-size: 4vh;
+    font-size: 4vmin;
 }
 
 #projects {
-    margin-top: 30vh;
+    margin-top: 30vmin;
 }
 
 #aca {
-    margin-top: 20vh;
-    font-size: 5vh;
+    margin-top: 20vmin;
+    font-size: 5vmin;
     font-family: 'Lato', sans-serif;
 
 }
 
 #acaimg {
-    margin-bottom: 15vh;
-    margin-top: 2vh;
-    width: 20vh;
+    margin-bottom: 15vmin;
+    margin-top: 2vmin;
+    width: 20vmin;
 }
 
 a {
@@ -75,22 +75,22 @@ a {
 
 .titlelink {
     font-family: 'Poppins', sans-serif;
-    font-size: 5vh;
-    margin-top: 50vh;
+    font-size: 5vmin;
+    margin-top: 50vmin;
     position: relative;
 }
 
 .titlelink2 {
     font-family: 'Poppins', sans-serif;
-    font-size: 3vh;
-    margin-top: 50vh;
+    font-size: 3vmin;
+    margin-top: 50vmin;
     position: relative;
 
 }
 
 .desc {
     font-family: 'Poppins', sans-serif;
-    font-size: 3vh;
+    font-size: 3vmin;
     left: 0;
     top: 0;
     position: relative;
@@ -98,17 +98,17 @@ a {
 
 .acadesc {
     font-family: 'Poppins', sans-serif;
-    font-size: 2.5vh;
+    font-size: 2.5vmin;
     left: 0;
     top: 0;
     position: relative;
 }
 
 #frankimg {
-    margin-top: -20vh;
-    width: 50vh;
-    margin-left: 90vh;
-    margin-bottom: 20vh;
+    margin-top: -20vmin;
+    width: 50vmin;
+    margin-left: 90vmin;
+    margin-bottom: 20vmin;
 }
 
 #frank {
@@ -116,57 +116,57 @@ a {
 }
 
 #desc2 {
-    margin-left: 60vh;
+    margin-left: 60vmin;
     /* text-align: right; */
 
 }
 
 #title2 {
-    margin-left: 60vh;
-    margin-top: 40vh;
+    margin-left: 60vmin;
+    margin-top: 40vmin;
 }
 
 #recessimg {
-    margin-top: -20vh;
-    width: 50vh;
-    /* margin-left: 90vh;
-    margin-bottom: 20vh; */
+    margin-top: -20vmin;
+    width: 50vmin;
+    /* margin-left: 90vmin;
+    margin-bottom: 20vmin; */
 }
 
 .iosimg {
-    margin-left: 100vh;
-    width: 25vh;
-    margin-top: -30vh;
+    margin-left: 100vmin;
+    width: 25vmin;
+    margin-top: -30vmin;
 }
 
 /* #ios2 {
-    margin-bottom: 10vh;
+    margin-bottom: 10vmin;
     /* text-align: right; }*/
 
-#ios {
-    margin-top: 15vh;
+/* #ios {
+    margin-top: 15vmin;
     /* text-align: right; */
-}
+
 
 #cloud {
-    margin-top: 7vh;
+    margin-top: 7vmin;
 }
 
 #alg {
-    margin-top: 7vh;
-    margin-bottom: 14vh;
+    margin-top: 7vmin;
+    margin-bottom: 14vmin;
 }
 .academictitle {
-    font-size: 3.5vh;
-    margin-top: 50vh;
+    font-size: 3.5vmin;
+    margin-top: 50vmin;
     position: relative;
 }
 
 .footer {
-    font-size: 1.75vh;
+    font-size: 1.75vmin;
     margin-left: 2px auto 0 auto;
     text-align: center;
-    height: 10vh;
+    height: 10vmin;
     font-family: 'Lato', sans-serif;
 }
 
